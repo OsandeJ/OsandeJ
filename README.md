@@ -61,7 +61,8 @@ Me chamo Osande de Jesus da Cunha Rodrigues, tenho 19 anos e sou natural de Beng
 <br/>
 
 ### 📊 Estatísticas
-<img 
+<p>
+ <img 
 align="left"
 alt="Estatisticas"
 heigth="200"
@@ -71,5 +72,7 @@ src="https://github-readme-stats.vercel.app/api?username=OsandeJ&show_icons=true
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=OsandeJ&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=OsandeJ&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />   
+</p>
+
