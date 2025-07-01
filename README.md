@@ -8,23 +8,31 @@ Me chamo Osande de Jesus da Cunha Rodrigues, tenho 19 anos e sou natural de Beng
 
 ### 🤖 Linguagens e Tecnologias
 
-<p align="left">
-  <img alt="HTML" title="HTML" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
-  <img alt="CSS" title="CSS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
-  <img alt="JavaScript" title="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
-  <img alt="TypeScript" title="TypeScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/>
-  <img alt="Node.js" title="Node.js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"/>
-  <img alt="React.js" title="React.js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
-  <img alt="Tailwind CSS" title="Tailwind CSS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"/>
-  <img alt="Bootstrap" title="Bootstrap" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"/>
-  <img alt="Git" title="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40px" title="HTML" alt="HTML"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40px" title="CSS" alt="CSS"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40px" title="JavaScript" alt="JavaScript"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40px" title="TypeScript" alt="TypeScript"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="40px" title="Node.js" alt="Node.js"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40px" title="React" alt="React"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="40px" title="Tailwind CSS" alt="Tailwind CSS"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="40px" title="Bootstrap" alt="Bootstrap"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40px" title="Git" alt="Git"/>
 </p>
 
 ---
 
 ### 📊 Estatísticas
 
-<div align="center">
+<p align="center">
   <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=OsandeJ&show_icons=true&theme=dark&include_all_commits=true"/> -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OsandeJ&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9"/>
-</div>
+</p>
