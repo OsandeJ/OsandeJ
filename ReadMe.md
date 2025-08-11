@@ -1,5 +1,3 @@
-<br clear="both">
-
 <h1 align="center">Osande de Jesus</h1>
 
 ###
